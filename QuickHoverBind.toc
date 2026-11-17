@@ -1,0 +1,10 @@
+## Interface: 16001
+## AllowLoadGameType: camelot
+## Title: QuickHoverBind
+## Notes: Pasa el raton por cualquier casilla de las barras y pulsa la tecla para bindear al instante.
+## Author: Antigravity
+## Version: 1.1.0
+## SavedVariables: QuickHoverBindDB
+## DefaultState: enabled
+
+QuickHoverBind.lua
